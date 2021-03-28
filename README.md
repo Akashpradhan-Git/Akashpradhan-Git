@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Akash Pradhan
 - 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning MCA
+- 🌱 I’m completed MCA
 - 📫 How to reach me . https://akshportfolio.netlify.app/
+- 📧 akashpradhan151@gmail.com
 
 <!---
 Akashpradhan-Git/Akashpradhan-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
