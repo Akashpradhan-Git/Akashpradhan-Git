@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akash Pradhan
 - 👀 I’m interested in FrontEnd
 - 🌱 I’m completed MCA
-- 📫 How to reach me . https://akshportfolio.netlify.app/
+- 📫 How to reach me? 👉 https://akshportfolio.netlify.app/
 - 📧 akashpradhan151@gmail.com
 
 <!---
